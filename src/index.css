@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Coming+Soon&display=swap");
+body {
+  margin: 0;
+  font-family: "Coming Soon", cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #eceff1;
+  color: #4d4d4d;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
